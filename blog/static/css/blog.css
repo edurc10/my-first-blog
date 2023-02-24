@@ -15,11 +15,13 @@
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Lobster', cursive;
+  font-family: "Apple SD Gothic Neo",
+  /* "Roboto",
+  sans-serif*/;
 }
 
 .date {
-  color: #828282;
+  color: #777a79;
 }
 
 .save {
